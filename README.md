@@ -2,7 +2,7 @@
 
 ### Carreira Profissional
 
-Com larga experiência profissinal na área de TI, atuando em desenvolvimento de sistema de ERP,  formação em Contabilidade, Administração e Direiro e diversos curso na área de TI. Atualmente se atualizando com as novas técnologias.
+Com larga experiência profissional na área de TI, em sistemas Enterprise resource planning (ERP), o qual proporcina um fluxo de dados entre os processos de negócio de uma empresa, fornecendo uma única fonte de verdade e simplificando as operações em toda a empresa. Formação acadêmica em Contabilidade, Administração e Direção e diversos cursos na área de TI.
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spavan99)](https://github.com/anuraghazra/github-readme-stats)
