@@ -4,6 +4,9 @@
 
 Com larga experiência profissional na área de TI, em sistemas Enterprise resource planning (ERP), o qual proporcina um fluxo de dados entre os processos de negócio de uma empresa, fornecendo uma única fonte de verdade e simplificando as operações em toda a empresa. Formação acadêmica em Contabilidade, Administração e Direção e diversos cursos na área de TI.
 
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?sytle=fotr-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'/>](https://www.linkedin.com/in/silvio-pavan/)
+
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spavan99)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +27,9 @@ Com larga experiência profissional na área de TI, em sistemas Enterprise resou
 ### Site MeuCachorrinho
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spavan99&repo=MeuCachorrinho)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?sytle=fotr-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'/>](https://www.linkedin.com/in/silvio-pavan/)
+### Oracle One - Alura
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spavan99&repo=Oracle-Alura-jogo1)](https://github.com/anuraghazra/github-readme-stats)
+
 
      
 <!--
