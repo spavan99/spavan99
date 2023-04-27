@@ -10,6 +10,7 @@ Esta multidiciplinaridade possibilita soluções eficientes e integradas, que me
 
 Com mais de 30 anos de experiência profissional em diversas áreas, incluindo administração, contabilidade e TECNOLOGIA DA INFORMAÇÃO (TI), iniciei minha carreira como consultor administrativo com foco em TI, adquirindo experiência em diversos segmentos empresariais, e especializando-me no desenvolvimento de ERP (Enterprise Resource Planning). Idealizei, desenvolvi e implementei ERPs, em multiplos segmentos, sempre adequado às especificidades do cada busines core.
 
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?sytle=fotr-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'/>](https://www.linkedin.com/in/silvio-pavan/)
 
 ### Detalhes
