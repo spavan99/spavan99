@@ -1,9 +1,14 @@
 ## Olá 😄  
 
+### Apresentaçao
+
+Formação de nível superior e MBA nas áreas de contabilidade, controladoria, administração, direito e agronegócios, aliados a treinamentos e cursos específicos em Tecnologia da Informação (TI), abrangendo C#, HTML, CSS e JavaScript, etc.
+
+Esta multidiciplinaridade possibilita soluções eficientes e integradas, que melhoram significativamente a gestão empresarial, reduzindo o retrabalho, redundância de dados e melhorando a eficácia, obtendo resultados e aumento da competitividade.
+
 ### Carreira Profissional
 
-Com larga experiência profissional na área de TI, em sistemas Enterprise resource planning (ERP), o qual proporcina um fluxo de dados entre os processos de negócio de uma empresa, fornecendo uma única fonte de verdade e simplificando as operações em toda a empresa. Formação acadêmica em Contabilidade, Administração e Direção e diversos cursos na área de TI.
-
+Com mais de 30 anos de experiência profissional em diversas áreas, incluindo administração, contabilidade e TECNOLOGIA DA INFORMAÇÃO (TI), iniciei minha carreira como consultor administrativo com foco em TI, adquirindo experiência em diversos segmentos empresariais, e especializando-me no desenvolvimento de ERP (Enterprise Resource Planning). Idealizei, desenvolvi e implementei ERPs, em multiplos segmentos, sempre adequado às especificidades do cada busines core.
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?sytle=fotr-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'/>](https://www.linkedin.com/in/silvio-pavan/)
 
